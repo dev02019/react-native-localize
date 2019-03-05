@@ -1,3 +1,7 @@
+# Duplicated file, will be removed in a future version.
+# Please use the Podspec file at project root.
+# @see https://github.com/react-native-community/react-native-localize/pull/37
+
 require 'json'
 package = JSON.parse(File.read('../package.json'))
 
